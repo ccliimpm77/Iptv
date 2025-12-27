@@ -1,0 +1,87 @@
+#EXTM3U x-tvg-url="http://epg-guide.com/dttsat.xml"
+#EXTINF:-1 tvg-id="51 Radio TV" tvg-name="51 Radio TV" tvg-logo="https://www.51news.it/images/loghi/logo_tv_radio_51news.png" ,51 Radio TV
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 tvg-id="BRIDGE Classic" tvg-name="BRIDGE Classic" tvg-logo="https://i.imgur.com/JJTQq81.png" ,BRIDGE Classic
+http://31.148.48.15/Bridge_TV_Classic/index.m3u8
+#EXTINF:-1 tvg-id="DJ Channel Tv" tvg-name="DJ Channel Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/dj-channel-tv.png" ,DJ Channel Tv
+https://cp1.server89.com:19360/djchanneltv/djchanneltv.m3u8
+#EXTINF:-1 tvg-id="Dance Hits 80" tvg-name="Dance Hits 80" tvg-logo="https://i.imgur.com/uMw3kks.png" ,Dance Hits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 tvg-id="Deluxe Music" tvg-name="Deluxe Music" tvg-logo="https://i.imgur.com/E65GQN9.png" ,Deluxe Music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="Impact TV Dance" tvg-name="Impact TV Dance" tvg-logo="https://i.imgur.com/G5mNdpE.png" ,Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+#EXTINF:-1 tvg-id="MTV Classic (360p)" tvg-name="MTV Classic (360p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png" ,MTV Classic (360p)
+https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="Magic TV" tvg-name="Magic TV" tvg-logo="https://i.imgur.com/n7bcrrp.png" ,Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+#EXTINF:-1 tvg-id="Miami Vice Radio Tv" tvg-name="Miami Vice Radio Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/miami-vice-radio-tv.jpg" ,Miami Vice Radio Tv
+https://5926fc9c7c5b2.streamlock.net/9326/9326/playlist.m3u8
+#EXTINF:-1 tvg-id="Mito Italia Tv" tvg-name="Mito Italia Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/mito-italia-tv.jpg" ,Mito Italia Tv
+http://host1.momentotv.live:28080/hls/mito/index.m3u8?tkn=2695990588
+#EXTINF:-1 tvg-id="Mitology TV" tvg-name="Mitology TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/mitology-tv.jpg" ,Mitology TV
+https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ocko Gold" tvg-name="Ocko Gold" tvg-logo="http://odmsto.com/uploads/tv_image/sm/ocko-gold.jpg" ,Ocko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/chunklist_b2628000.m3u8
+#EXTINF:-1 tvg-id="Pop World Tv" tvg-name="Pop World Tv" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Pop World Tv
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 tvg-id="R101 TV" tvg-name="R101 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png" ,R101 TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="RMC 101 Tv" tvg-name="RMC 101 Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rmc-101-tv-2mox9bwh503g.jpg" ,RMC 101 Tv
+https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/playlist.m3u8
+#EXTINF:-1 tvg-id="RTL 102.5" tvg-name="RTL 102.5" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" ,RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL 102.5 Best" tvg-name="RTL 102.5 Best" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-best.png" ,RTL 102.5 Best
+https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RTL 102.5 Disco" tvg-name="RTL 102.5 Disco" tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtl-1025-disco.jpg" ,RTL 102.5 Disco
+https://streamcdnn2-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Radio 105 TV" tvg-name="Radio 105 TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" ,Radio 105 TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Radio 4 You Tv" tvg-name="Radio 4 You Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-4-you-tv.png" ,Radio 4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1 tvg-id="Radio Alfa Piemonte" tvg-name="Radio Alfa Piemonte" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-alfa-piemonte.png" ,Radio Alfa Piemonte
+https://585b674743bbb.streamlock.net/9104/9104/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Anni '80 '90" tvg-name="Radio Anni '80 '90" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-80-forever-young.jpg" ,Radio Anni '80 '90
+https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Birikina TV" tvg-name="Radio Birikina TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-birikina-tv.png" ,Radio Birikina TV
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Capital TV" tvg-name="Radio Capital TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiocapitaltv.png" ,Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Deejay Tv" tvg-name="Radio Deejay Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-deejay-tv.jpg" ,Radio Deejay Tv
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Ibiza" tvg-name="Radio Ibiza" tvg-logo="https://i.imgur.com/uu0DHY5.png" ,Radio Ibiza
+https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Iglesias TV" tvg-name="Radio Iglesias TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-iglesias-tv.png" ,Radio Iglesias TV
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Italia Tv" tvg-name="Radio Italia Tv" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" ,Radio Italia Tv
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="Radio Italia Tv" tvg-name="Radio Italia Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-italia-tv.png" ,Radio Italia Tv
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="Radio Kiss Kiss Italia Tv" tvg-name="Radio Kiss Kiss Italia Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-kiss-kiss-italia-tv.png" ,Radio Kiss Kiss Italia Tv
+https://59253971be783.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Kiss Kiss TV HD" tvg-name="Radio Kiss Kiss TV HD" tvg-logo="http://epg.it999.ru/img2/6116.png" ,Radio Kiss Kiss TV HD
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Radio Lombardia TV" tvg-name="Radio Lombardia TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-lombardia-tv.jpg" ,Radio Lombardia TV
+https://stream9.xdevel.com/video0s976574-1330/stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Radio Marte Tv" tvg-name="Radio Marte Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-marte-tv.png" ,Radio Marte Tv
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio Montecarlo TV" tvg-name="Radio Montecarlo TV" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png" ,Radio Montecarlo TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Radio Norba Tv" tvg-name="Radio Norba Tv" tvg-logo="https://i.imgur.com/qftBPM9.png" ,Radio Norba Tv
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Radio Tivù Azzurra" tvg-name="Radio Tivù Azzurra" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tivù-azzurra.png" ,Radio Tivù Azzurra
+https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1 tvg-id="Radio ZETA" tvg-name="Radio ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" ,Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+#EXTINF:-1 tvg-id="Retro Music Television" tvg-name="Retro Music Television" tvg-logo="https://i.imgur.com/a6S2Yo4.png" ,Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Vevo '90s & '00s" tvg-name="Vevo '90s & '00s" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBC210000200_20230412T042541SQUARE.png_20230412042541.png" ,Vevo '90s & '00s
+https://amg00056-vevotv-amg00056c12-plex-us-462.playouts.now.amagi.tv/vevo90s00sit-samsungit/playlist.m3u8
+#EXTINF:-1 tvg-id="Vintage Radio Tv" tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" ,Vintage Radio Tv
+https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Virgin Radio" tvg-name="Virgin Radio" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png" ,Virgin Radio
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="XPTV1" tvg-name="XPTV1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,XPTV1
+https://janus.xpbroadcasting.com:8443/hls/xptv1.m3u8
+#EXTINF:-1 tvg-id="Музыка 2" tvg-name="Музыка 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Музыка 2
+http://kino-1.catcast.tv/content/37742/index.m3u8
