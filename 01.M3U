@@ -57,7 +57,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="RTL 102.5 TV" tvg-name="RTL 102.5 TV" tvg-logo="https://i.imgur.com/KdissvS.png" ,RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery.it" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85" ,Discovery.it
+#EXTINF:-1 tvg-id="WarnerTV.it" tvg-name="WarnerTV.it" tvg-logo="https://eu1-prod-images.disco-api.com/2024/10/31/3328310f-6d31-30a1-be18-d17a7ecb95cd.png?w=200&f=PNG&p=true&q=85" ,WarnerTV.it
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 tvg-id="Giallo" tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" ,Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
@@ -79,7 +79,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" ,Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sky TG24
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="SkyTG24.it" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,SkyTG24.it
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="TGCOM 24" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" ,TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
@@ -107,9 +107,9 @@ https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="ALMA TV" tvg-name="ALMA TV" tvg-logo="http://odmsto.com/uploads/tv_image/sm/alma-tv.png" ,ALMA TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
-#EXTINF:-1 tvg-id="Radio 105" tvg-name="Radio 105" tvg-logo="https://i.imgur.com/3NiLKvj.png" ,Radio 105
+#EXTINF:-1 tvg-id="Radio105TV.IT" tvg-name="Radio105TV.IT" tvg-logo="https://i.imgur.com/3NiLKvj.png" ,Radio105TV.IT
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="R101 TV" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" ,R101 TV
+#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101TV.it" tvg-logo="https://i.imgur.com/mWeEa9T.png" ,R101TV.it
 https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Deejay TV" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" ,Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
@@ -129,8 +129,6 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio TV Serie A" tvg-name="Radio TV Serie A" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tv-serie-a.jpg" ,Radio TV Serie A
 https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:-1 tvg-id="Juventus Play" tvg-name="Juventus Play" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Juventus Play
-https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Bianconera Tv" tvg-name="Radio Bianconera Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bianconera-tv-juventus-rbn.png" ,Radio Bianconera Tv
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="Primocanale" tvg-name="Primocanale" tvg-logo="https://i.imgur.com/xWF1A1U.png" ,Primocanale
@@ -145,43 +143,57 @@ https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:-1 tvg-id="Primantenna Torino" tvg-name="Primantenna Torino" tvg-logo="https://i.imgur.com/sqEcPFs.gif" ,Primantenna Torino
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-#EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Rally TV
+#EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 tvg-id="SPORT!!!" tvg-name="SPORT!!!" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,SPORT!!!
+#EXTINF:-1 tvg-id="SPORT!!!" tvg-name="SPORT!!!" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,SPORT!!!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Setanta 1" tvg-name="Setanta 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta 1
+#EXTINF:-1 tvg-id="Setanta 1" tvg-name="Setanta 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Setanta 1
 http://2.57.217.85:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 1" tvg-name="Setanta Geo 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta Geo 1
+#EXTINF:-1 tvg-id="Setanta Geo 1" tvg-name="Setanta Geo 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Setanta Geo 1
 http://2.57.217.85:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Setanta 2" tvg-name="Setanta 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta 2
+#EXTINF:-1 tvg-id="Setanta 2" tvg-name="Setanta 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Setanta 2
 http://2.57.217.85:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 2" tvg-name="Setanta Geo 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta Geo 2
+#EXTINF:-1 tvg-id="Setanta Geo 2" tvg-name="Setanta Geo 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Setanta Geo 2
 http://2.57.217.85:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Setanta 3" tvg-name="Setanta 3" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta 3
+#EXTINF:-1 tvg-id="Setanta 3" tvg-name="Setanta 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Setanta 3
 http://2.57.217.85:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 3" tvg-name="Setanta Geo 3" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta Geo 3
+#EXTINF:-1 tvg-id="Setanta Geo 3" tvg-name="Setanta Geo 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Setanta Geo 3
 http://2.57.217.85:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="Super Sport 1" tvg-name="Super Sport 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 1
+#EXTINF:-1 tvg-id="Super Sport 1" tvg-name="Super Sport 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Super Sport 1
 http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Super Sport 2" tvg-name="Super Sport 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 2
+#EXTINF:-1 tvg-id="Super Sport 2" tvg-name="Super Sport 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Super Sport 2
 http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Super Sport 3" tvg-name="Super Sport 3" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 3
+#EXTINF:-1 tvg-id="Super Sport 3" tvg-name="Super Sport 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Super Sport 3
 http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Super Sport 4" tvg-name="Super Sport 4" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 4
+#EXTINF:-1 tvg-id="Super Sport 4" tvg-name="Super Sport 4" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Super Sport 4
 http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 1
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 2
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-id="Матч" tvg-name="Матч" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Матч
+#EXTINF:-1 tvg-id="Матч" tvg-name="Матч" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Матч
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1 tvg-id="Матч ТВ" tvg-name="Матч ТВ" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Матч ТВ
+#EXTINF:-1 tvg-id="Матч ТВ" tvg-name="Матч ТВ" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,Матч ТВ
 http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
-#EXTINF:-1 tvg-id="SPORT Футбол 1 HD" tvg-name="SPORT Футбол 1 HD" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,SPORT Футбол 1 HD
+#EXTINF:-1 tvg-id="sport Страна" tvg-name="sport Страна" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,sport Страна
+http://45.145.32.13:20440/match_strana/index.m3u8?token=test
+#EXTINF:-1 tvg-id="sport Футбол 1" tvg-name="sport Футбол 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,sport Футбол 1
+http://45.145.32.13:20440/match_football1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="SPORT Футбол 1 HD" tvg-name="SPORT Футбол 1 HD" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,SPORT Футбол 1 HD
 http://185.78.112.57:8077/football1_hd/index.m3u8
-#EXTINF:-1 tvg-id="SPORT Футбол 2 HD" tvg-name="SPORT Футбол 2 HD" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,SPORT Футбол 2 HD
+#EXTINF:-1 tvg-id="sport Футбол 1 HD" tvg-name="sport Футбол 1 HD" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,sport Футбол 1 HD
+http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="sport Футбол 2" tvg-name="sport Футбол 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,sport Футбол 2
+http://45.145.32.13:20440/match_football2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="sport Футбол 2 HD" tvg-name="sport Футбол 2 HD" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,sport Футбол 2 HD
+http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
+#EXTINF:-1 tvg-id="SPORT Футбол 2 HD" tvg-name="SPORT Футбол 2 HD" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,SPORT Футбол 2 HD
 http://185.78.112.57:8077/football2_hd/index.m3u8
-#EXTINF:-1 tvg-id="SPORT Футбол 3 HD" tvg-name="SPORT Футбол 3 HD" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,SPORT Футбол 3 HD
+#EXTINF:-1 tvg-id="sport Футбол 3" tvg-name="sport Футбол 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,sport Футбол 3
+http://45.145.32.13:20440/match_football3/index.m3u8?token=test
+#EXTINF:-1 tvg-id="SPORT Футбол 3 HD" tvg-name="SPORT Футбол 3 HD" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,SPORT Футбол 3 HD
 http://185.78.112.57:8077/football3_hd/index.m3u8
+#EXTINF:-1 tvg-id="sport Футбол 3 HD" tvg-name="sport Футбол 3 HD" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg" ,sport Футбол 3 HD
+http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-liguria.png" ,TGR Liguria
 https://odmsto.com/returned/668667.m3u8
