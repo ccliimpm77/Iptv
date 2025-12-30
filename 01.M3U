@@ -79,7 +79,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" ,Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/ccliimpm77-patch-1/04.png?raw=yes" ,Sky TG24
+#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/04.png?raw=yes" ,Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="TGCOM 24" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" ,TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
@@ -129,7 +129,7 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio TV Serie A" tvg-name="Radio TV Serie A" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tv-serie-a.jpg" ,Radio TV Serie A
 https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:-1 tvg-id="Juventus Play" tvg-name="Juventus Play" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/ccliimpm77-patch-1/02.svg?raw=yes" ,Juventus Play
+#EXTINF:-1 tvg-id="Juventus Play" tvg-name="Juventus Play" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/02.svg?raw=yes" ,Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Bianconera Tv" tvg-name="Radio Bianconera Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bianconera-tv-juventus-rbn.png" ,Radio Bianconera Tv
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
@@ -145,7 +145,7 @@ https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:-1 tvg-id="Primantenna Torino" tvg-name="Primantenna Torino" tvg-logo="https://i.imgur.com/sqEcPFs.gif" ,Primantenna Torino
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-#EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/ccliimpm77-patch-1/03.png?raw=yes" ,Rally TV
+#EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/03.png?raw=yes" ,Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
 #EXTINF:-1 tvg-id="SPORT!!!" tvg-name="SPORT!!!" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,SPORT!!!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
