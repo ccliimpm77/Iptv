@@ -147,35 +147,35 @@ https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/03.png?raw=yes" ,Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 tvg-id="SPORT!!!" tvg-name="SPORT!!!" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,SPORT!!!
+#EXTINF:-1 tvg-id="SPORT!!!" tvg-name="SPORT!!!" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,SPORT!!!
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Setanta 1" tvg-name="Setanta 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Setanta 1
+#EXTINF:-1 tvg-id="Setanta 1" tvg-name="Setanta 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta 1
 http://2.57.217.85:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 1" tvg-name="Setanta Geo 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Setanta Geo 1
+#EXTINF:-1 tvg-id="Setanta Geo 1" tvg-name="Setanta Geo 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta Geo 1
 http://2.57.217.85:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Setanta 2" tvg-name="Setanta 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Setanta 2
+#EXTINF:-1 tvg-id="Setanta 2" tvg-name="Setanta 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta 2
 http://2.57.217.85:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 2" tvg-name="Setanta Geo 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Setanta Geo 2
+#EXTINF:-1 tvg-id="Setanta Geo 2" tvg-name="Setanta Geo 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta Geo 2
 http://2.57.217.85:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Setanta 3" tvg-name="Setanta 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Setanta 3
+#EXTINF:-1 tvg-id="Setanta 3" tvg-name="Setanta 3" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta 3
 http://2.57.217.85:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 3" tvg-name="Setanta Geo 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Setanta Geo 3
+#EXTINF:-1 tvg-id="Setanta Geo 3" tvg-name="Setanta Geo 3" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Setanta Geo 3
 http://2.57.217.85:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="Super Sport 1" tvg-name="Super Sport 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Super Sport 1
+#EXTINF:-1 tvg-id="Super Sport 1" tvg-name="Super Sport 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 1
 http://195.181.169.152:8080/Super_Sport_1_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Super Sport 2" tvg-name="Super Sport 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Super Sport 2
+#EXTINF:-1 tvg-id="Super Sport 2" tvg-name="Super Sport 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 2
 http://195.181.169.152:8080/Super_Sport_2_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Super Sport 3" tvg-name="Super Sport 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Super Sport 3
+#EXTINF:-1 tvg-id="Super Sport 3" tvg-name="Super Sport 3" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 3
 http://195.181.169.152:8080/Super_Sport_3_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Super Sport 4" tvg-name="Super Sport 4" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Super Sport 4
+#EXTINF:-1 tvg-id="Super Sport 4" tvg-name="Super Sport 4" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Super Sport 4
 http://195.181.169.152:8080/Super_Sport_4_HD_AL/video.m3u8?token=test
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Sport 1
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Sport 2
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
-#EXTINF:-1 tvg-id="Матч" tvg-name="Матч" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Матч
+#EXTINF:-1 tvg-id="Матч" tvg-name="Матч" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Матч
 https://32tech0steam0dp01.org/test/matchtv/chunks.m3u8
-#EXTINF:-1 tvg-id="Матч ТВ" tvg-name="Матч ТВ" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/IconaTV.jpg?raw=yes" ,Матч ТВ
+#EXTINF:-1 tvg-id="Матч ТВ" tvg-name="Матч ТВ" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Матч ТВ
 http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-liguria.png" ,TGR Liguria
 https://odmsto.com/returned/668667.m3u8
