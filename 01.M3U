@@ -179,5 +179,7 @@ http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS Serie A" tvg-name="CBS Serie A" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D5FE2064-E664-4725-A0EC-BF43F6CF2A43/3-1x1.png" ,CBS Serie A
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=1&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="TGR Liguria" tvg-name="TGR Liguria" tvg-logo="http://odmsto.com/uploads/tv_image/sm/tgr-liguria.png" ,TGR Liguria
 https://odmsto.com/returned/668667.m3u8
