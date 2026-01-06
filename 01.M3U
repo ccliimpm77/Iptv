@@ -147,8 +147,6 @@ https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
 #EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/03.png?raw=true" ,Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 tvg-id="SPORT!!!" tvg-name="SPORT!!!" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,SPORT!!!
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Setanta 1" tvg-name="Setanta 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta 1
 http://2.57.217.85:8000/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Geo 1" tvg-name="Setanta Geo 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta Geo 1
@@ -161,20 +159,6 @@ http://2.57.217.85:8000/play/a05o/index.m3u8
 http://2.57.217.85:8000/play/a080/index.m3u8
 #EXTINF:-1 tvg-id="Setanta Geo 3" tvg-name="Setanta Geo 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta Geo 3
 http://2.57.217.85:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="Матч ТВ" tvg-name="Матч ТВ" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Матч ТВ
-http://hls127.freeott.top:8080/MATCH_TV/video.m3u8
-#EXTINF:-1 tvg-id="sport Футбол 1" tvg-name="sport Футбол 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,sport Футбол 1
-http://45.145.32.13:20440/match_football1/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sport Футбол 1 HD" tvg-name="sport Футбол 1 HD" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,sport Футбол 1 HD
-http://45.145.32.13:20440/match_futbol_1_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sport Футбол 2" tvg-name="sport Футбол 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,sport Футбол 2
-http://45.145.32.13:20440/match_football2/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sport Футбол 2 HD" tvg-name="sport Футбол 2 HD" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,sport Футбол 2 HD
-http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sport Футбол 3" tvg-name="sport Футбол 3" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,sport Футбол 3
-http://45.145.32.13:20440/match_football3/index.m3u8?token=test
-#EXTINF:-1 tvg-id="sport Футбол 3 HD" tvg-name="sport Футбол 3 HD" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,sport Футбол 3 HD
-http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
 #EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 2
