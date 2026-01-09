@@ -11,7 +11,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Italia 1" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" ,Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="La7" tvg-name="La7" tvg-logo="https://raw.githubusercontent.com/ccliimpm77/Iptv/c8e2e5d7f17d94d3bc15eed9df0b4eb2791ed593/007.svg" ,La7
+#EXTINF:-1 tvg-id="La7" tvg-name="La7" tvg-logo="https://drive.google.com/file/d/1vIcFCNI4zWe_4oZ-k4JTIqJV5H2o_mtJ/view?usp=drivesdk" ,La7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=300" ,TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
@@ -79,7 +79,7 @@ https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_h
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7
 #EXTINF:-1 tvg-id="Italia 2" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" ,Italia 2
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/04.png?raw=true" ,Sky TG24
+#EXTINF:-1 tvg-id="Sky TG24" tvg-name="Sky TG24" tvg-logo="https://drive.google.com/file/d/192XGtt4LGSxmI2PKwdHo9KjbllJeZcSq/view?usp=drivesdk" ,Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="TGCOM 24" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" ,TGCOM 24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
@@ -129,7 +129,7 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio TV Serie A" tvg-name="Radio TV Serie A" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tv-serie-a.jpg" ,Radio TV Serie A
 https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:-1 tvg-id="Juventus Play" tvg-name="Juventus Play" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/02.svg?raw=true" ,Juventus Play
+#EXTINF:-1 tvg-id="Juventus Play" tvg-name="Juventus Play" tvg-logo="https://drive.google.com/file/d/1NMLo9byb38bbM5pEfXV-uGMf67hYPsUG/view?usp=drivesdk" ,Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Bianconera Tv" tvg-name="Radio Bianconera Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bianconera-tv-juventus-rbn.png" ,Radio Bianconera Tv
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
@@ -145,23 +145,23 @@ https://nrvideo1.newradio.it/euhsbdamnx/euhsbdamnx/playlist.m3u8
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
 #EXTINF:-1 tvg-id="Primantenna Torino" tvg-name="Primantenna Torino" tvg-logo="https://i.imgur.com/sqEcPFs.gif" ,Primantenna Torino
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-#EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/03.png?raw=true" ,Rally TV
+#EXTINF:-1 tvg-id="Rally TV" tvg-name="Rally TV" tvg-logo="https://drive.google.com/file/d/1qlm3aA68rmcwTtK5cuLS-SaYdR9LMTpg/view?usp=drivesdk" ,Rally TV
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
-#EXTINF:-1 tvg-id="Setanta 1" tvg-name="Setanta 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta 1
+#EXTINF:-1 tvg-id="Setanta 1" tvg-name="Setanta 1" tvg-logo="https://drive.google.com/file/d/1VcqiYe7SLUjypV5SjocODBJf_35MZ0HT/view?usp=drivesdk" ,Setanta 1
 http://2.57.217.85:8000/play/a09e/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 1" tvg-name="Setanta Geo 1" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta Geo 1
+#EXTINF:-1 tvg-id="Setanta Geo 1" tvg-name="Setanta Geo 1" tvg-logo="https://drive.google.com/file/d/1VcqiYe7SLUjypV5SjocODBJf_35MZ0HT/view?usp=drivesdk" ,Setanta Geo 1
 http://2.57.217.85:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="Setanta 2" tvg-name="Setanta 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta 2
+#EXTINF:-1 tvg-id="Setanta 2" tvg-name="Setanta 2" tvg-logo="https://drive.google.com/file/d/1VcqiYe7SLUjypV5SjocODBJf_35MZ0HT/view?usp=drivesdk" ,Setanta 2
 http://2.57.217.85:8000/play/a09f/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 2" tvg-name="Setanta Geo 2" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta Geo 2
+#EXTINF:-1 tvg-id="Setanta Geo 2" tvg-name="Setanta Geo 2" tvg-logo="https://drive.google.com/file/d/1VcqiYe7SLUjypV5SjocODBJf_35MZ0HT/view?usp=drivesdk" ,Setanta Geo 2
 http://2.57.217.85:8000/play/a05o/index.m3u8
-#EXTINF:-1 tvg-id="Setanta 3" tvg-name="Setanta 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta 3
+#EXTINF:-1 tvg-id="Setanta 3" tvg-name="Setanta 3" tvg-logo="https://drive.google.com/file/d/1VcqiYe7SLUjypV5SjocODBJf_35MZ0HT/view?usp=drivesdk" ,Setanta 3
 http://2.57.217.85:8000/play/a080/index.m3u8
-#EXTINF:-1 tvg-id="Setanta Geo 3" tvg-name="Setanta Geo 3" tvg-logo="https://github.com/ccliimpm77/Iptv/blob/main/Setanta.png?raw=true" ,Setanta Geo 3
+#EXTINF:-1 tvg-id="Setanta Geo 3" tvg-name="Setanta Geo 3" tvg-logo="https://drive.google.com/file/d/1VcqiYe7SLUjypV5SjocODBJf_35MZ0HT/view?usp=drivesdk" ,Setanta Geo 3
 http://2.57.217.85:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 1
+#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://drive.google.com/file/d/1CUiUuSS3ZTyFP4asg-vLhVANQzEo6Mtd/view?usp=drivesdk" ,Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://img.freepik.com/vettori-premium/immagine-vettoriale-di-icone-televisive-puo-essere-utilizzata-per-il-calcio_120816-204813.jpg" ,Sport 2
+#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://drive.google.com/file/d/1CUiUuSS3ZTyFP4asg-vLhVANQzEo6Mtd/view?usp=drivesdk" ,Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS Serie A" tvg-name="CBS Serie A" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D5FE2064-E664-4725-A0EC-BF43F6CF2A43/3-1x1.png" ,CBS Serie A
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=1&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
