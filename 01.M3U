@@ -129,7 +129,7 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio TV Serie A" tvg-name="Radio TV Serie A" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tv-serie-a.jpg" ,Radio TV Serie A
 https://livesg.seriea.hiway.media/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-#EXTINF:-1 tvg-id="Juventus Play" tvg-name="Juventus Play" tvg-logo="https://drive.google.com/uc?export=download&id=1NMLo9byb38bbM5pEfXV-uGMf67hYPsUG" ,Juventus Play
+#EXTINF:-1 tvg-id="Juventus Play" tvg-name="Juventus Play" tvg-logo="https://drive.google.com/uc?export=download&id=1aKYTY7B5w0p4TEBcK_hOZYRrycdPjCGD" ,Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-id="Radio Bianconera Tv" tvg-name="Radio Bianconera Tv" tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-bianconera-tv-juventus-rbn.png" ,Radio Bianconera Tv
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
@@ -165,13 +165,17 @@ http://45.145.32.13:20440/match_futbol_2_hd/index.m3u8?token=test
 http://45.145.32.13:20440/match_football3/index.m3u8?token=test
 #EXTINF:-1 tvg-id="sport Футбол 3 HD" tvg-name="sport Футбол 3 HD" tvg-logo="https://drive.google.com/uc?export=download&id=1CUiUuSS3ZTyFP4asg-vLhVANQzEo6Mtd" ,sport Футбол 3 HD
 http://45.145.32.13:20440/match_futbol_3_hd/index.m3u8?token=test
-#EXTINF:-1 tvg-id="Eurosport BG" tvg-name="Eurosport BG" tvg-logo="https://drive.google.com/uc?export=download&id=1CUiUuSS3ZTyFP4asg-vLhVANQzEo6Mtd" ,Eurosport BG
+#EXTINF:-1 tvg-id="Eurosport 1 BG" tvg-name="Eurosport 1 BG" tvg-logo="https://drive.google.com/uc?export=download&id=1ZnvXwvmPjjQy0guGwQdp9Jfi17aVs1x4" ,Eurosport 1 BG
 http://84.54.128.52:9090/play/4003/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2 BG" tvg-name="Eurosport 2 BG" tvg-logo="https://drive.google.com/uc?export=download&id=1CUiUuSS3ZTyFP4asg-vLhVANQzEo6Mtd" ,Eurosport 2 BG
+#EXTINF:-1 tvg-id="Eurosport 2 BG" tvg-name="Eurosport 2 BG" tvg-logo="https://drive.google.com/uc?export=download&id=1ZnvXwvmPjjQy0guGwQdp9Jfi17aVs1x4" ,Eurosport 2 BG
 http://84.54.128.52:9090/play/4004/index.m3u8
-#EXTINF:-1 tvg-id="Sport 1" tvg-name="Sport 1" tvg-logo="https://drive.google.com/uc?export=download&id=1CUiUuSS3ZTyFP4asg-vLhVANQzEo6Mtd" ,Sport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://drive.google.com/uc?export=download&id=1ZnvXwvmPjjQy0guGwQdp9Jfi17aVs1x4" ,Eurosport 1
+http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://drive.google.com/uc?export=download&id=1ZnvXwvmPjjQy0guGwQdp9Jfi17aVs1x4" ,Eurosport 2
+http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
+#EXTINF:-1 tvg-id="CZ Sport 1" tvg-name="CZ Sport 1" tvg-logo="https://drive.google.com/uc?export=download&id=1uM23g2P1BJ4U_IsGF54BUVdSsb-wE88J" ,CZ Sport 1
 http://88.212.15.19/live/test_sport1_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sport 2" tvg-name="Sport 2" tvg-logo="https://drive.google.com/uc?export=download&id=1CUiUuSS3ZTyFP4asg-vLhVANQzEo6Mtd" ,Sport 2
+#EXTINF:-1 tvg-id="CZ Sport 2" tvg-name="CZ Sport 2" tvg-logo="https://drive.google.com/uc?export=download&id=1uM23g2P1BJ4U_IsGF54BUVdSsb-wE88J" ,CZ Sport 2
 http://88.212.15.19/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="CBS Serie A" tvg-name="CBS Serie A" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D5FE2064-E664-4725-A0EC-BF43F6CF2A43/3-1x1.png" ,CBS Serie A
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=1&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
